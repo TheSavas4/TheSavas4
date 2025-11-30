@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Savas 👋
 
-<!--
-**TheSavas4/TheSavas4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python and AI enthusiast, focusing on data analysis, machine learning, and deep learning projects.  
+Currently studying Computer Engineering and building projects to strengthen my AI skills.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+Python | Pandas | Numpy | Scikit-learn | TensorFlow | PyTorch | Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [ML-Projects](link-to-your-ML-repo) – Data analysis & machine learning models
+- [AI-Projects](link-to-your-AI-repo) – Deep learning and AI applications
+
+## 📫 Contact
+- LinkedIn: [Your LinkedIn](your-linkedin-url)
+- Email: savashalitgil@gmail.com
